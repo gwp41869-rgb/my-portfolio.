@@ -1,0 +1,92 @@
+Jian Nuel Claveria
+
+Santa Barbara, Pangasinan 2419
+09765108673
+madcute001@gmail.com
+
+Websites, Portfolios, Profiles
+
+https://www.linkedin.com/in/jian-claveria-035083411?trk=contact-info
+
+Summary
+
+Graduating Bachelor of Science in Information Technology student with hands-on experience in web development and networking. Proficient in HTML, CSS, JavaScript, MySQL, Laravel, React, and Git, with experience developing a capstone Event Management System using Laravel, React, and MySQL. Reliable and quick to learn, with the ability to balance part-time work and full-time studies while collaborating effectively in team environments. Possesses strong communication, problem-solving, and time management skills, with a willingness to learn and adapt to new technologies. Seeking an entry-level IT-related role where technical skills, work ethic, and eagerness to contribute can support company projects and growth.
+
+Experience
+
+January 2022 - Current
+
+Part-Time - Santa Barbara, Pangasinan
+Chicken Dressing
+
+Prepared and processed chicken (cleaning, cutting, portioning)
+Maintained cleanliness and followed hygiene standards
+Assisted in daily production tasks in a fast-paced setting
+
+Education
+
+August 2022 - Current
+Universidad de Dagupan Dagupan
+Bachelor of Science in Information Technology
+
+December 2020
+Daniel Maramba National High School Santa Barbara
+High School
+
+December 2016
+Patayak Elementary School Santa Barbara
+Elementary School
+
+Accomplishments
+
+Developed a responsive personal portfolio website using HTML, CSS and JavaScript; version-controlled with Git and deployed on GitHub Pages.
+Built a CRUD web application with MySQL backend and JavaScript frontend, implementing client-side validation and SQL queries for data management.
+Configured basic router and switch settings in a home lab (VLANs and basic routing) to gain hands-on networking experience.
+Collaborated on group software projects using Git for branching, pull requests and conflict resolution to deliver features on schedule.
+Completed coursework and practical projects in web development, database management and network fundamentals.
+Demonstrated strong time management and reliability while balancing part-time work and full-time studies.
+
+Projects
+
+Capstone Project – Event Management System, University of Dagupan, Dagupan, Pangasinan, 08/01/25, 12/31/25, Developed a web-based Event Management System using Laravel (backend), React (frontend), and MySQL (database). Utilized AI-assisted tools during development. The system allows users to create and manage events, supports automatic bracketing for match-type events, and includes a public news feature for event updates and announcements. It also has borrowing logs and a varsity MIS for record management and organization.
+
+Personal Information
+
+Date of Birth: 08/03/03
+Nationality: Filipino
+Civil Status: Single
+Gender: Male
+
+Skills
+
+Basic Troubleshooting
+Basic Computer Hardware Assembly
+Software Installation
+Database Management
+Web Development
+Responsive Web Design
+Version Control (Git/GitHub)
+Microsoft Office Suite
+Data Entry
+
+Basic Graphic Design
+Technical Support
+Team Collaboration
+Problem-Solving
+Time Management
+Fast Learner
+Multitasking
+Keyboard Proficiency
+Willingness to Learn
+
+Languages
+
+Filipino
+C2
+Proficient
+			
+
+English
+B1
+Intermediate
+			
